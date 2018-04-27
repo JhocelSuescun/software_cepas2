@@ -1,0 +1,37 @@
+.info{
+	width: 400px;
+	float:left;
+}
+
+.foto{
+	margin-left: 50px;
+	 
+}
+
+.datos{
+	font-weight: bold;
+}
+
+.imagencepa{
+	width: 150px;
+	float: left;
+}
+
+.informacioncepa{
+width: 200px;
+float: left;
+margin-left: 50px;
+}
+.mediosxcepa{
+	width: 800px;
+	float: left;
+	margin-left: 50px;
+}
+
+table{border-collapse:collapse;border-spacing:0}td,th{padding:0}
+thead{display:table-header-group}img,tr{page-break-inside:avoid}
+.table{border-collapse:collapse!important}.table td,.table th{background-color:#fff!important}.table-bordered td,.table-bordered th{border:1px solid #ddd!important}}
+.table td{
+	padding-left: 200px;
+	background-color: blue;
+}

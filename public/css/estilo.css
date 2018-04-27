@@ -1,0 +1,29 @@
+#indexCaracteristicas{
+	margin-left: 150px;
+}
+
+/*div.dataTables_wrapper {
+        width: 800px;
+        margin: 0 auto;
+    }
+*/
+td.details-control {
+    background: url('http://next.datatables.net/examples/resources/details_open.png') no-repeat center center;
+    cursor: pointer;
+}
+tr.shown td.details-control {
+    background: url('http://next.datatables.net/examples/resources/details_close.png') no-repeat center center;
+}
+
+#algo{
+	
+	float: left;
+
+}
+
+#otro{
+	float: left;
+	width: 500px;
+	height: 500px;
+}
+
